@@ -1,0 +1,17 @@
+
+.table-primary {
+    --bs-table-color: #000;
+    --bs-table-bg: #27c0eed7;
+}
+
+
+.border-info {
+    --bs-border-opacity: 1;
+    
+}
+
+
+.table-primary,.border-info{
+    border-color: rgb(0, 0, 0) !important;
+}
+
